@@ -9,8 +9,8 @@ MY SELF I AM SAI KRISHNA KUMAR
 [E-MAIL]:rpss.saikrishnakumar@gmail.com
 
 <!-- Inline Code Block -->
-`<p>This page for articles, research paper and review of a book.</p>`
-<pre> Good humor is one of the best articles of dress one can wear in society.<pre>
+<p>This page for articles, research paper and review of a book.</p><br><br>
+<pre> Good humor is one of the best articles of dress one can wear in society.</pre>
 
 
 <!-- Images -->
